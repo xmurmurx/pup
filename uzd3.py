@@ -21,4 +21,4 @@ def materialaUzskaite(tips, izmers1, izmers2, skaits):
 
 
 
-materialuAprekins (2,3,4,5,)
+materialuAprekins (5,3,4,6,)
